@@ -1,0 +1,10 @@
+div{
+    background-color: #8d99aeff;
+    margin-bottom: 5px;
+    border: 1px solid #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 400px; 
+    border-radius: 10px ;
+    padding: 10px  ;
+    box-shadow: 0 0 10 px rgba(255,0, 0,0.5)
+}
